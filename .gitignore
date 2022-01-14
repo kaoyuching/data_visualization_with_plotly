@@ -3,3 +3,4 @@
 !data/*.csv
 data/*-missing.csv
 .ipynb_checkpoints
+example_plots/*
