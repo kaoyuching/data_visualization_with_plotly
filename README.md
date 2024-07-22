@@ -33,7 +33,7 @@ Visualize the relationship between each pair of features. On the diagonal shows 
     More details are in [missing_value_row_missing_rate_with_threshold.ipynb](https://github.com/kaoyuching/plotly_example/blob/master/missing_value_row_missing_rate_with_threshold.ipynb).
 
 ### Outliers
-See [outlier_numeric.ipynb](https://github.com/kaoyuching/plotly_example/blob/master/outlier_numeric.ipynb) and (outlier_category.ipynb)[https://github.com/kaoyuching/plotly_example/blob/master/outlier_category.ipynb].
+See [outlier_numeric.ipynb](https://github.com/kaoyuching/plotly_example/blob/master/outlier_numeric.ipynb) and [outlier_category.ipynb](https://github.com/kaoyuching/plotly_example/blob/master/outlier_category.ipynb).
 
 ### Correlation matrix
 The correlation matrix can break down to 3 parts. For two numerical features, use Pearson correlation. For two categorical features, use Cramer's V. To calculate the correlation between numerical and categorical, use correlation ratio (eta correlation). More details are in [correlation_matrix.ipynb](https://github.com/kaoyuching/plotly_example/blob/master/correlation_matrix.ipynb).
